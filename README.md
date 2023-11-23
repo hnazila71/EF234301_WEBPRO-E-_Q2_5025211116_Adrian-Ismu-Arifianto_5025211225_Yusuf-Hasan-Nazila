@@ -6,7 +6,7 @@
 
 ### 1. Register
 ![WhatsApp Image 2023-11-23 at 21 21 56_c5528722 width="40%"](https://github.com/hnazila71/EF234301_WEBPRO-E-_Q2_5025211116_Adrian-Ismu-Arifianto_5025211225_Yusuf-Hasan-Nazila/assets/114125438/7f8e8576-1be4-4a2b-bdb0-728e0c09f462) 
-```
+``` java
 package com.test.todo.servlets;
 
 import java.io.IOException;
@@ -109,7 +109,7 @@ public class RegisterUser extends HttpServlet {
 - Pesan kesalahan atau keberhasilan penambahan pengguna ke basis data dicetak ke konsol untuk tujuan siklus.
 - Akhirnya, pengguna diarahkan kembali ke servlet `RegisterUser` (melalui permintaan GET) setelah proses pendaftaran berhasil.
 
-```
+``` jsp
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1" errorPage="../Error.jsp"%>
 <%@ taglib uri="jakarta.tags.core" prefix="c"%>
