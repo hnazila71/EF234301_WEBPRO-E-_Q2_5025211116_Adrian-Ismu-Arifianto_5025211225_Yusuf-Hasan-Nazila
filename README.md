@@ -1,8 +1,8 @@
 # EF234301_WEBPRO-E-_Q2_5025211116_Adrian-Ismu-Arifianto_5025211225_Yusuf-Hasan-Nazila
 
 Contribution
-Yusuf Hasan Nazila     (5025211225) 40% Frondend + MySQL
-Adrian Ismu Arifianto  (5025211116) 60% JSP + Frondend
+#### Yusuf Hasan Nazila     (5025211225) 40% Frondend + MySQL
+#### Adrian Ismu Arifianto  (5025211116) 60% JSP + Frondend
 
 ### 1. Register
 ![WhatsApp Image 2023-11-23 at 21 21 56_c5528722 width="40%"](https://github.com/hnazila71/EF234301_WEBPRO-E-_Q2_5025211116_Adrian-Ismu-Arifianto_5025211225_Yusuf-Hasan-Nazila/assets/114125438/7f8e8576-1be4-4a2b-bdb0-728e0c09f462) 
